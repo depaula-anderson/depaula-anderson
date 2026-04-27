@@ -45,5 +45,5 @@ Busco uma **oportunidade de estágio em Ciência de Dados ou Análise de Dados**
 ---
 
 ## 📫 Contato
-- 🔗 LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/andersonfdepaula/)
+- 🔗 LinkedIn: [(Anderson de Paula)](https://www.linkedin.com/in/andersonfdepaula/)
 - ✉️ Email: anderson.depaula@outlook.com
